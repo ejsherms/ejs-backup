@@ -523,10 +523,6 @@ a.ui-button:active,
     margin-bottom: 3rem;
 }
 
-.co-dts-container .custom-cursor {
-    cursor: pointer;
-}
-
 /* Modals */
 .co-dts-container .slds-modal__header .modal-title {
     font-weight: 700;
