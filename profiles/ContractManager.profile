@@ -81,11 +81,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-        <application>standard__LightningInstrumentation</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    <applicationVisibilities>
         <application>standard__LightningSales</application>
         <default>false</default>
         <visible>true</visible>
@@ -540,10 +535,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>copado__ADD_DependencyHandler</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>copado__ADD_RecordMatchingFormulaOperations</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -7877,11 +7868,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>copado__Promoted_User_Story__c.copado__Status__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>copado__Promotion__c.copado__Back_Promotion__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -8123,36 +8109,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>copado__Quality_Gate__c.copado__Test_Level__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Configuration_Source_Org__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Field_1__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Field_2__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Field_3__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Hash_Formula__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>copado__Record_Matching_Formula__c.copado__Object__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -11388,10 +11344,6 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>copado__Promotion__c</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>copado__Record_Matching_Formula__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
