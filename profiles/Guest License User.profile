@@ -125,11 +125,6 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
-    <applicationVisibilities>
-        <application>standard__TrustCard</application>
-        <default>false</default>
-        <visible>false</visible>
-    </applicationVisibilities>
     <classAccesses>
         <apexClass>InspectionServices</apexClass>
         <enabled>false</enabled>
