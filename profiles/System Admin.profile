@@ -9852,6 +9852,11 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+    <loginIpRanges>
+        <description>undefined</description>
+        <endAddress>96.43.159.255</endAddress>
+        <startAddress>96.43.144.0</startAddress>
+    </loginIpRanges>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
