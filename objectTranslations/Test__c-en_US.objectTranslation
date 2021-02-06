@@ -8,5 +8,13 @@
         <plural>true</plural>
         <value>Tests</value>
     </caseValues>
+    <fields>
+        <label><!-- Add Metadata --></label>
+        <name>Add_Metadata__c</name>
+    </fields>
+    <fields>
+        <label><!-- Standard Commit --></label>
+        <name>Standard_Commit__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
