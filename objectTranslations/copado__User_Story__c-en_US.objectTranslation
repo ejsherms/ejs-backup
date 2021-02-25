@@ -61,6 +61,10 @@
         <name>JIRA_key__c</name>
     </fields>
     <fields>
+        <label><!-- Last Promotion Date - GMT (Sortable) --></label>
+        <name>Last_Promotion_Date_GMT_Sortable__c</name>
+    </fields>
+    <fields>
         <label><!-- Acceptance Criteria Status --></label>
         <name>copado__Acceptance_Criteria_Status__c</name>
         <picklistValues>
