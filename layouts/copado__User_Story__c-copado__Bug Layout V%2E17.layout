@@ -561,8 +561,8 @@
         <fields>NAME</fields>
         <fields>copado__Status__c</fields>
         <fields>copado__Promotion__c.NAME</fields>
+        <fields>copado__Promotion__c.LAST_UPDATE</fields>
         <fields>copado__Promotion__c.copado__Project__c</fields>
-        <fields>copado__Promotion__c.copado__Release__c</fields>
         <fields>copado__Promotion__c.copado__Source_Org_Credential__c</fields>
         <fields>copado__Promotion__c.copado__Destination_Org_Credential__c</fields>
         <fields>copado__Promotion__c.copado__Back_Promotion__c</fields>
