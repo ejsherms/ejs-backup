@@ -49,6 +49,22 @@
         <name>copado__Work_Manager_Relations</name>
     </fieldSets>
     <fields>
+        <label><!-- Enable Logs --></label>
+        <name>Enable_Logs__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Id --></label>
+        <name>External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- JIRA key --></label>
+        <name>JIRA_key__c</name>
+    </fields>
+    <fields>
+        <label><!-- Last Promotion Date - GMT (Sortable) --></label>
+        <name>Last_Promotion_Date_GMT_Sortable__c</name>
+    </fields>
+    <fields>
         <label><!-- Acceptance Criteria Status --></label>
         <name>copado__Acceptance_Criteria_Status__c</name>
         <picklistValues>
@@ -185,6 +201,11 @@
         <help><!-- Number of Apex Class methods that failed during the Apex Test Run execution. --></help>
         <label><!-- Failing Methods --></label>
         <name>copado__Failing_Methods__c</name>
+    </fields>
+    <fields>
+        <label><!-- Feature --></label>
+        <name>copado__Feature__c</name>
+        <relationshipLabel><!-- User Stories --></relationshipLabel>
     </fields>
     <fields>
         <label><!-- Functional Specifications --></label>
@@ -723,11 +744,11 @@
         <name>copado__Stop_Indexing_Metadata__c</name>
     </fields>
     <fields>
-        <label><!-- Story Points Other --></label>
+        <label><!-- Planned Points --></label>
         <name>copado__Story_Points_Other__c</name>
     </fields>
     <fields>
-        <label><!-- Story Points SFDC --></label>
+        <label><!-- Actual Points --></label>
         <name>copado__Story_Points_SFDC__c</name>
     </fields>
     <fields>
@@ -761,6 +782,11 @@
         <name>copado__Triggers_Without_Coverage__c</name>
     </fields>
     <fields>
+        <label><!-- Feature --></label>
+        <name>copado__US_Feature__c</name>
+        <relationshipLabel><!-- User Stories --></relationshipLabel>
+    </fields>
+    <fields>
         <help><!-- Short description of the User Story or requirement. Technical and non-technical team members should be able to understand the description. --></help>
         <label><!-- User Story Title --></label>
         <name>copado__User_Story_Title__c</name>
@@ -786,6 +812,18 @@
     <fields>
         <label><!-- So that... --></label>
         <name>copado__userStory_reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- Enable Logs --></label>
+        <name>copadoccmint__Enable_Logs__c</name>
+    </fields>
+    <fields>
+        <label><!-- External Id --></label>
+        <name>copadoccmint__External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- JIRA key --></label>
+        <name>copadoccmint__JIRA_key__c</name>
     </fields>
     <recordTypes>
         <label><!-- Bug --></label>
