@@ -67,6 +67,10 @@ WARNING: Credits consumption will apply as a regular deployment since resource-w
         <relationshipLabel><!-- Steps --></relationshipLabel>
     </fields>
     <fields>
+        <label><!-- JsonResult --></label>
+        <name>copado__JsonResult__c</name>
+    </fields>
+    <fields>
         <label><!-- Manual Task Notified --></label>
         <name>copado__Manual_Task_Notified__c</name>
     </fields>
