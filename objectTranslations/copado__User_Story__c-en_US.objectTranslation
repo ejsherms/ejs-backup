@@ -846,6 +846,10 @@
         <name>copado__User_Story</name>
     </recordTypes>
     <validationRules>
+        <errorMessage><!-- Pull Request has not been approved. --></errorMessage>
+        <name>Pull_Request_Approval</name>
+    </validationRules>
+    <validationRules>
         <errorMessage><!-- A cancellation reason must be given. --></errorMessage>
         <name>copado__Cancellation_reason_required</name>
     </validationRules>

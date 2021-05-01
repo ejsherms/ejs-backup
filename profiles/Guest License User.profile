@@ -9568,6 +9568,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>copado__Project__c.copadoccmint__Enable_Community_User__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>copado__Project__c.copadoccmint__Enable_Logs__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -11681,6 +11686,11 @@
         <field>copadoccmint__Field_Mapping__c.copadoccmint__Target_Field_Type__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>copadoccmint__Record_Type_Mapping__c.copadoccmint__Project__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -11875,6 +11885,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>copadoccmint__Record_Type_Mapping__c-copadoccmint__Record Type Mapping Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>copadovsm__Avoided_Custom_Filter_Fields__mdt-copadovsm__Avoided Custom Filter Field Layout</layout>
