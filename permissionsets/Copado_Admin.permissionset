@@ -6742,6 +6742,22 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
+        <recordType>copado__Deployment__c.copado__Advanced_multi_step</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>copado__Deployment__c.copado__Automation_Template</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>copado__Deployment__c.copado__Data_Deployment</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>copado__Deployment__c.copado__Metadata_Deployment</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
         <recordType>copado__Selenium_Test_Run__c.copado__Generic_Web_Application</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
