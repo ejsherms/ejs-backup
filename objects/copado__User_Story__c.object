@@ -321,11 +321,6 @@
             <isRequired>false</isRequired>
         </availableFields>
         <availableFields>
-            <field>copado__Latest_Commit_Date__c</field>
-            <isFieldManaged>false</isFieldManaged>
-            <isRequired>false</isRequired>
-        </availableFields>
-        <availableFields>
             <field>copado__Legal__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
@@ -533,6 +528,11 @@
         </displayedFields>
         <displayedFields>
             <field>Last_Promotion_Date_GMT_Sortable__c</field>
+            <isFieldManaged>false</isFieldManaged>
+            <isRequired>false</isRequired>
+        </displayedFields>
+        <displayedFields>
+            <field>copado__Latest_Commit_Date__c</field>
             <isFieldManaged>false</isFieldManaged>
             <isRequired>false</isRequired>
         </displayedFields>
