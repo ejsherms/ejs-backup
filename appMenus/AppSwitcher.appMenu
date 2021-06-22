@@ -129,10 +129,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__OnlineSales</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>Copado_Integrations</name>
         <type>CustomApplication</type>
     </appMenuItems>
