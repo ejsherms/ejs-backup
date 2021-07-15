@@ -3238,6 +3238,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Back_Promote_Test__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Back_promotion_test__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -3329,6 +3334,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Test_Back_Promotion__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Test_Field_1__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
