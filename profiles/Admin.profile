@@ -3878,6 +3878,14 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>copadovsm__CallIterable</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>copadovsm__CustomIterable</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>copadovsm__CustomLookupComponentHelper</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -3899,6 +3907,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>copadovsm__GarbageCollectorBatch</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>copadovsm__GarbageCollectorIterator</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -3991,6 +4003,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>copadovsm__VSMConditionDTO</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>copadovsm__VSMGarbageCollectorBatch</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -11922,6 +11938,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>copadovsm__Supported_Custom_Metric_Field_Type__mdt-copadovsm__Supported Custom Metric Field Type Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>copadovsm__Value_Stream_Map_Configuration__c-copadovsm__Value Stream Map Configuration Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>copadovsm__Value_Stream_Map_Metric__c-copadovsm__Value Stream Map Metric Layout</layout>
