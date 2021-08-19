@@ -128,4 +128,12 @@
         <name>standard__OnlineSales</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Copado_Integrations</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>copadoccmint__Copado_Integrations</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
