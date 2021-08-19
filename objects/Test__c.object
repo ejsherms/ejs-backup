@@ -149,10 +149,10 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>Private</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <fields>
         <fullName>Add_Metadata__c</fullName>
         <externalId>false</externalId>
@@ -167,6 +167,26 @@
         <fullName>Standard_Commit__c</fullName>
         <externalId>false</externalId>
         <label>Standard Commit</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Test_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Test 2</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Test_Field_1__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Field 1</label>
         <length>10</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
