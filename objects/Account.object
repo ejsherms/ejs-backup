@@ -388,6 +388,9 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Tier</fullName>
+    </fields>
+    <fields>
         <fullName>Type</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
